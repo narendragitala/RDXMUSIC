@@ -32,10 +32,37 @@ def supp_markup(_):
         [
             [
                 InlineKeyboardButton(
-                    text=_["S_B_9"],
-                    url=SUPPORT_CHAT,
+                    text="˹ᴍᴜsɪᴄ˼",
+                    callback_data="help_callback"
                 ),
+                InlineKeyboardButton(
+                    text="˹ᴍᴀɴᴀɢᴇᴍᴇɴᴛ˼",
+                    callback_data="mbot_cb"),][
+                InlineKeyboardButton(
+                    text="˹sᴘᴇᴄɪᴀʟ ᴛᴀɢᴇʀ˼",
+                    k_data="mplus HELP_TagAll"),
             ]
         ]
     )
     return upl
+
+
+def cmds_markup(_):
+    upl = InlineKeyboardMarkup(
+        [
+            [
+                InlineKeyboardButton(
+                    text="˹ᴍᴜsɪᴄ˼",
+                    callback_data="help_callback"
+                ),
+                InlineKeyboardButton(
+                    text="˹ᴍᴀɴᴀɢᴇᴍᴇɴᴛ˼",
+                    callback_data="mbot_cb"),][
+                InlineKeyboardButton(
+                    text="˹sᴘᴇᴄɪᴀʟ ᴛᴀɢᴇʀ˼",
+                    k_data="mplus HELP_TagAll"),
+            ]
+        ]
+    )
+    return upl
+
