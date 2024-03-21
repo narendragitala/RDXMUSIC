@@ -14,7 +14,7 @@
 GO TO [RELOAD.PY](https://github.com/RDX-RAj/RDXMUSIC/blob/Master/RDXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://graph.org/file/0037723dafc9d8c84062d.jpg">
+  <img src="https://telegra.ph/file/f66e5843568d4b7f2a652.jpg">
 </p>
 
 <p align="center">
