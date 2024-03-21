@@ -4,28 +4,28 @@ class Helper(object):
 ᴀsᴋ ʏᴏᴜʀ ᴅᴏᴜʙᴛs ᴀᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ
 
 ᴀʟʟ ʙᴜᴛᴛᴏɴs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : ᴄʟɪᴄᴋ'''
-    HELP_RDXS = ''' ˹ꝛᴅꭙ ѕᴜᴘᴘᴏʀᴛ
+    HELP_RDXS = ''' ˹ɴᴀʀᴜ ѕᴜᴘᴘᴏʀᴛ
 
-✪ ᴛʜᴇ ꝛᴅꭙ ѕᴜᴘᴘᴏʀᴛ ᴍᴇɴᴜ ✪
+✪ ᴛʜᴇ ɴᴀʀᴜ ѕᴜᴘᴘᴏʀᴛ ᴍᴇɴᴜ ✪
 
-๏ ᴠɪᴘ ғʀɪᴇɴᴅᴢ ᴄʟᴜʙ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+RObRa7kXPIJmMjU1)
+๏ ᴠɪᴘ ᴄʟᴜʙ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/JaAT_CoM_303)
 
-๏ ꝛᴅꭙ ᴜᴘᴅᴀᴛᴇs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+m4oVCt2zFhYyMTdl)
+๏ ɴᴀʀᴜ ᴜᴘᴅᴀᴛᴇs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/StUdY_302)
 
-๏ ꝛᴅꭙ sᴛᴜᴅʏs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+PtOLQT04ocMzOTJl)
+๏ ᴠɪᴋᴜ sᴛᴜᴅʏs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/shayrigalibki)
 
-๏ ꝛᴅꭙ ʙᴏᴛs ʟɪsᴛ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+KRt7ApiJ5Ek2ZjY1)
+๏ ɴᴀʀᴜ ʙᴏᴛs ʟɪsᴛ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/all_about_naru)
 
-๏ ꝛᴅꭙ ʜᴏᴛ ᴅᴇᴀʟs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+BD8IVag4UpU3ODI1)
+๏ ʟɪᴠᴇ ʜᴏᴛ ᴅᴇᴀʟs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/StUdY_302)
 
-๏ ᴀʙᴏᴜᴛ ꝛᴅꭙ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+okCO84m2hZxjYTE9)
+๏ ᴀʙᴏᴜᴛ ɴᴀʀᴜ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/all_about_naru)
 
-๏ ꝛᴅꭙ sᴜᴘᴘᴏʀᴛs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+pAWm7GPhFYliOGI1)
+๏ ᴠɪᴄᴋʏ sᴜᴘᴘᴏʀᴛs ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/JaAT_CoM_303)
 
-๏ sᴛᴜᴅʏ ᴄʜᴀɴɴᴇʟ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+A8Dk4aNJet44ZDA1)
+๏ sᴛᴜᴅʏ ᴄʜᴀɴɴᴇʟ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/StUdY_302)
 
-๏ ꝛᴅꭙ ʏᴏᴜᴛᴜʙᴇ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
+๏ ɴᴀʀᴜ ʙᴀʙʏ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/brokenshayri1)
 
-๏ ɪɴsᴛᴀɢʀᴀᴍ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://www.instagram.com/vdjrajofficial?igsh=ZDExYjZkNGI0OA==)
+๏ ᴠɪᴄᴋʏ ᴊᴀᴀɴ ➠ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/StUdY_302)
 
 '''
