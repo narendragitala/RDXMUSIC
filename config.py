@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","mr_naru")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ROYAL_JAAT_302")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "narumusicwala_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ROYAL1MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "narubaby")
+BOT_NAME = getenv("BOT_NAME" , "vikrammusic")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Mrnaru")
+ASSUSERNAME = getenv("ASSUSERNAME" , "vikram")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002063300169))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002014872332)
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5473771943))
+OWNER_ID = int(getenv("OWNER_ID", 6441126161)
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/RDX-RAj/RDXMUSIC",
+    "https://github.com/narendragitala/RDXMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/brokenshayri1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/shayrigalibki")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/StUdY_302")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/JaAT_CoM_303")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/1778123393b6277012773.png"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/315c20f4a38d1d301b4f7.jpg"
